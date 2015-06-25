@@ -5,7 +5,7 @@ CBIR
 
 Due to the enormous increase in image database sizes, as well as its vast deployment in various applications, many Content Based Image Retrieval (CBIR) systems have been developed. The challenge, however, is in designing a system with the ability to retrieve best matches in case of having all kind of images as query. The power of such system highly depends on the features it employs to perform the matching process. 
 In this project a CBIR system has been designed and developed. The [report](https://github.com/aminert/CBIR/blob/master/Report/FeazhAmineCBIR.pdf) outlines a description of some primitive features of image, which have been utilized in the presented system. These features are extracted and used as the basis for a similarity check between images. The algorithms used to calculate the similarity between extracted features, are then explained.
-Final result was a Matlab built software application, with an image database, that utilized different feature of the images in the database as the basis of comparison and retrieval. The structure of the final software application is illustrated. Furthermore, the results of its performance are illustrated.
+Final result was a Matlabapplication, with an image database, that utilized different features as the basis of comparison and retrieval. A GUI of the tool is illustrated below.
 
 [Continue reading](https://github.com/aminert/CBIR/blob/master/Report/FeazhAmineCBIR.pdf)
 
